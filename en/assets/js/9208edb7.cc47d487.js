@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchatgptdocstudy=self.webpackChunkchatgptdocstudy||[]).push([[652],{5213:t=>{t.exports=JSON.parse('{"label":"facebook","permalink":"/chatgptdocstudy/en/blog/tags/facebook","allTagsPath":"/chatgptdocstudy/en/blog/tags","count":1,"unlisted":false}')}}]);
